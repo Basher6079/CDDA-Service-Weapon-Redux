@@ -1,6 +1,6 @@
 # What
 
-Service Weapon (`service_weapon`) is a [*Cataclysm: Dark Days Ahead*](http://github.com/cleverRaven/Cataclysm-DDA) mod that adds the Service Weapon morphing firearm from the game *Control*.
+Service Weapon (`service_weapon`) is a [*Cataclysm: Dark Days Ahead*](http://github.com/cleverRaven/Cataclysm-DDA) mod that adds the Service Weapon morphing firearm from the game *Control*. **Basher Edit:** the original is found [here](https://github.com/GMC-Modding-Team/Community-Mod-Compilation-redux/tree/master/data/Unleash_The_Mods/Working_mods/Service_Weapon). After ThatFanficGuy asked for an update, I looked into it and saw some ways I thought I could improve it.
 
 It depends on the base game (`dda`) **Basher Edit:** but no longer depends on Aftershock (`aftershock`).
 
@@ -14,7 +14,7 @@ It depends on the base game (`dda`) **Basher Edit:** but no longer depends on Af
 
 ~~For the sake of balance, it spawns exceedingly rarely in Aftershock's weapon-testing facilities. When you find it, you have to activate it for it to work. After that, you'll be able to change it into its different forms from the "Use Item" menu.~~
 
-**Basher Edit:** It's currently guaranteed to spawn at the bottom of lab reactors. Alternatively, start as Jesse or Dylan Faden.
+**Basher Edit:** It's currently guaranteed to spawn at the bottom of lab reactors. Alternatively, start as Jesse or Dylan Faden. If people are interested (or have suggestions) I may rebalance it.
 
 ## Changing It
 
@@ -42,7 +42,7 @@ Aside from the five forms from the game, I took it upon myself to add one more, 
 
 ~~The perfect solution would be JSONized auto-recharge effect, but we're still some ways away from it: the enchantment JSOnization project is underway, but its estimates of completion are unknown.~~
 
-**Basher Edit:** It has an internal charge of 0-100. Different shots use different amounts of charge, and it freely recharges about 1 point every 2 seconds.
+**Basher Edit:** It has an internal charge of 0-100. Different shots use different amounts of charge, and it freely recharges about 2 points per second.
 
 # Potential Development
 
@@ -96,7 +96,7 @@ The player must be given a choice to play with the forms of the Service Weapon t
 
 The idea of introducing *Control* or *Control*-derived concepts could be extended into its own content pack. Oldest House could added, and so can the Hiss and its enemies... or something that doesn't infringe upon Remedy's copyright.
 
-You have my blessing to use this mod or any of the ideas expressed so far in your own creations.
+You have my blessing to use this mod or any of the ideas expressed so far in your own creations. **Basher Edit:** Thanks for your blessing, I hope you like it!
 
 # License
 
