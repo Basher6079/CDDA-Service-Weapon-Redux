@@ -2,7 +2,7 @@
 
 Service Weapon (`service_weapon`) is a [*Cataclysm: Dark Days Ahead*](http://github.com/cleverRaven/Cataclysm-DDA) mod that adds the Service Weapon morphing firearm from the game *Control*.
 
-It depends on the base game (`dda`) Basher Edit: but no longer depends on Aftershock (`aftershock`).
+It depends on the base game (`dda`) **Basher Edit:** but no longer depends on Aftershock (`aftershock`).
 
 # Why
 
@@ -14,7 +14,7 @@ It depends on the base game (`dda`) Basher Edit: but no longer depends on Afters
 
 --For the sake of balance, it spawns exceedingly rarely in Aftershock's weapon-testing facilities. When you find it, you have to activate it for it to work. After that, you'll be able to change it into its different forms from the "Use Item" menu.--
 
-Basher Edit: It's currently guaranteed to spawn at the bottom of lab reactors. Alternatively, start as Jesse Faden.
+**Basher Edit:** It's currently guaranteed to spawn at the bottom of lab reactors. Alternatively, start as Jesse Faden.
 
 ## Changing It
 
@@ -24,7 +24,7 @@ All forms are available at the start.
 
 Aside from the five forms from the game, I took it upon myself to add one more, called Bright: a medium-range laser weapon. It seemed appropriate for the setting.
 
-Basher Edit: In the original mod the forms were mostly the same. I have tried to make the forms unique and balanced, but it may need more tweaking.
+**Basher Edit:** In the original mod the forms were mostly the same. I have tried to make the forms unique and balanced, but it may need more tweaking.
 
 ## Loading It
 
@@ -42,7 +42,7 @@ Before settling on using batteries, I'd considered:
 
 The perfect solution would be JSONized auto-recharge effect, but we're still some ways away from it: the enchantment JSOnization project is underway, but its estimates of completion are unknown.--
 
-Basher Edit: It has an internal charge of 0-100. Different shots use different amounts of charge, and it freely recharges about 1 point every 2 seconds.
+**Basher Edit:** It has an internal charge of 0-100. Different shots use different amounts of charge, and it freely recharges about 1 point every 2 seconds.
 
 # Potential Development
 
