@@ -1,0 +1,36 @@
+[
+  {
+    "type": "profession",
+    "ident": "director_f",
+    "name": { "male": "Switch to Female!", "female": "Jesse Faden" },
+    "description": "You wield the Service Weapon, a powerful artifact that marks you as Director of the FBC.",
+    "points": 6,
+    "skills": [
+      { "level": 3, "name": "gun" },
+      { "level": 2, "name": "pistol" },
+      { "level": 2, "name": "melee" },
+      { "level": 2, "name": "dodge" }
+    ],
+    "traits": [ "hair_red_medium", "FACIAL_HAIR_NONE", "SKIN_LIGHT" ],
+	"items": {
+      "female": [ "bra", "longshirt", "jacket_leather", "panties", "jeans", "socks", "boots", "service_weapon_grip" ]
+    }
+  },
+  {
+    "type": "profession",
+    "ident": "director_m",
+    "name": { "male": "Dylan Faden", "female": "Switch to Male!" },
+    "description": "With your sister out of the way, nothing is stopping you from taking the Service Weapon.",
+    "points": 6,
+    "skills": [
+      { "level": 3, "name": "gun" },
+      { "level": 2, "name": "pistol" },
+      { "level": 2, "name": "melee" },
+      { "level": 2, "name": "dodge" }
+    ],
+    "traits": [ "HAIR_BALD", "FACIAL_HAIR_NONE", "SKIN_LIGHT", "PSYCHOPATH" ],
+	"items": {
+      "male": [ "boxer_shorts", "sweatshirt", "technician_pants_gray", "service_weapon_grip"]
+    }
+  }
+]

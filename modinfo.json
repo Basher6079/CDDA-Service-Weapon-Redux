@@ -1,0 +1,11 @@
+[
+  {
+    "id": "service_weapon_redux",
+    "type": "MOD_INFO",
+    "name": "Service Weapon",
+    "authors": [ "Firebrand", "Basher6079" ],
+    "description": "Reinvents the morphing, alien Service Weapon.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
