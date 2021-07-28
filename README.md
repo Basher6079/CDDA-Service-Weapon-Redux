@@ -12,9 +12,9 @@ It depends on the base game (`dda`) **Basher Edit:** but no longer depends on Af
 
 ## Finding It
 
---For the sake of balance, it spawns exceedingly rarely in Aftershock's weapon-testing facilities. When you find it, you have to activate it for it to work. After that, you'll be able to change it into its different forms from the "Use Item" menu.--
+~~For the sake of balance, it spawns exceedingly rarely in Aftershock's weapon-testing facilities. When you find it, you have to activate it for it to work. After that, you'll be able to change it into its different forms from the "Use Item" menu.
 
-**Basher Edit:** It's currently guaranteed to spawn at the bottom of lab reactors. Alternatively, start as Jesse Faden.
+**Basher Edit:** It's currently guaranteed to spawn at the bottom of lab reactors. Alternatively, start as Jesse or Dylan Faden.
 
 ## Changing It
 
@@ -28,19 +28,19 @@ Aside from the five forms from the game, I took it upon myself to add one more, 
 
 ## Loading It
 
---Unlike in *Control*, this version of the Service Weapon runs on light batteries. This usually offers plenty of ammunition, especially with disposable batteries, because one shot from any form takes one charge off the battery. The fact that it spawns so rarely should make up for the ease of provisioning.
+~~Unlike in *Control*, this version of the Service Weapon runs on light batteries. This usually offers plenty of ammunition, especially with disposable batteries, because one shot from any form takes one charge off the battery. The fact that it spawns so rarely should make up for the ease of provisioning.
 
-Before settling on using batteries, I'd considered:
+~~Before settling on using batteries, I'd considered:
 
-* using UPS
-  * something that would generally make sense
-  * something that would theoretically be available by the time you start raiding laboratories
-  * with that in mind, I felt like batteries offer a decent trade-off between "limited" ammunition and the need to wait (in this case – for the reload to finish)
-* using `ARTC_TIME`
-  * something that would be ideal for the Service Weapon, within the limitations of the game
-  * except for the fact that it apparently takes a long time to reload, something that doesn't fit in with the idea
+~~* using UPS
+~~  * something that would generally make sense
+~~  * something that would theoretically be available by the time you start raiding laboratories
+~~  * with that in mind, I felt like batteries offer a decent trade-off between "limited" ammunition and the need to wait (in this case – for the reload to finish)
+~~* using `ARTC_TIME`
+~~  * something that would be ideal for the Service Weapon, within the limitations of the game
+~~  * except for the fact that it apparently takes a long time to reload, something that doesn't fit in with the idea
 
-The perfect solution would be JSONized auto-recharge effect, but we're still some ways away from it: the enchantment JSOnization project is underway, but its estimates of completion are unknown.--
+~~The perfect solution would be JSONized auto-recharge effect, but we're still some ways away from it: the enchantment JSOnization project is underway, but its estimates of completion are unknown.
 
 **Basher Edit:** It has an internal charge of 0-100. Different shots use different amounts of charge, and it freely recharges about 1 point every 2 seconds.
 
