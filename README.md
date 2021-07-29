@@ -4,6 +4,8 @@ Service Weapon (`service_weapon`) is a [*Cataclysm: Dark Days Ahead*](http://git
 
 It depends on the base game (`dda`) **Basher Edit:** but no longer depends on Aftershock (`aftershock`).
 
+![plot](Service%20Weapon.png)
+
 # Why
 
 ...it's the Service Weapon.
