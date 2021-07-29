@@ -80,7 +80,7 @@
       ],
       "palettes": [ "microlab" ],
       "place_loot": [
-        { "item": "service_weapon", "x": 13, "y": 10, "chance": 100 }
+        { "item": "service_weapon_modular", "x": 13, "y": 10, "chance": 100 }
       ],
       "terrain": { "-": "t_wall_metal", "#": "t_rock", "g": "t_bridge", "A": "t_bridge", "w": "t_water_pool" },
       "furniture": { "A": "f_compact_ASRG" }
